@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @godnatten
-- 🌱 I’m currently studying Cognitive Science at Aarhus University
+:)
